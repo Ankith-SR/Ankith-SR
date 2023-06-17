@@ -1,16 +1,37 @@
-### Hi there 👋
+## About me :mortar_board:
+I am a student, currently studying in Vellore Institute of Technology Chennai
+. 
 
-<!--
-**Ankith-SR/Ankith-SR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I know :computer:
+- *Programming Languages (Data Structures & Algorithms)*
+	<center>
+		<table>
+			<tbody>
+				<tr>
+          <td width="25%" align="center">
+						<span><strong>C++</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+					</td>
+          					<td width="25%" align="center">
+						<span><strong>C</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/c.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Python</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Java</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
+					</td>
+          <td width="25%" align="center">
+						<span><strong>MySql</strong></span><br/>
+						<img height="64px" width="75px" src="https://cdn.svgporn.com/logos/mysql.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+  ## What I want to do next :thinking:
+- Not sure!

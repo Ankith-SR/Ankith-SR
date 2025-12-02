@@ -1,5 +1,5 @@
 ## About me :mortar_board:
-I am a student, currently studying in Vellore Institute of Technology Chennai
+I am a student
 . 
 
 

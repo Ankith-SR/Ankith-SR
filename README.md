@@ -27,9 +27,3 @@ Topics covered: Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programmin
 **Automation & Tools:** Playwright, Git, GitHub Actions, REST APIs, Linux
 
 **Other:** Forensic computing tools (Volatility, Autopsy), Jupyter Notebooks
-
----
-
-## About
-
-M.S. Computer Science @ Arizona State University, Tempe AZ — graduating May 2027
